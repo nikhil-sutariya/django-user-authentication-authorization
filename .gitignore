@@ -1,0 +1,6 @@
+venv/
+company_management/company_management_app/migrations
+company_management/db.sqlite3
+company_management/company_management_app/__pycache__/
+company_management/company_management_app/api/__pycache__/
+company_management/company_management/__pycache__/
